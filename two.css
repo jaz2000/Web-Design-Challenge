@@ -1,0 +1,36 @@
+.box {
+    background: red;
+    color: violet;
+    width: 100%;
+    height: 500px;
+    padding: 1%;
+}
+
+.inner-box {
+    float: left;
+    
+}
+
+.box1 {
+    background: wheat;
+    width: 49%;
+    height: 49%;
+}
+
+.box2 {
+    background:yellow;
+    width: 49%;
+    height: 49%;
+}
+
+.box3 {
+    background: coral;
+    width: 49%;
+    height: 49%;
+}
+
+.box4 {
+    background: cyan;
+    width: 49%;
+    height: 49%;
+}
